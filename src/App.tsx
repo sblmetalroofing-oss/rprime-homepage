@@ -973,7 +973,7 @@ function MockCrewView() {
 
 /* ─────────────────────────── sections ─────────────────────────── */
 
-const APP_URL = 'https://rprime-v2-production.up.railway.app';
+const APP_URL = 'https://app.rprime.com.au';
 
 function Navbar() {
   const [scrolled, setScrolled] = useState(false);
